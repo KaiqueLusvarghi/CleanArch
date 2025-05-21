@@ -1,0 +1,16 @@
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\bin\Debug\net9.0\CleanArchMvc.Application.deps.json
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\bin\Debug\net9.0\CleanArchMvc.Application.dll
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\bin\Debug\net9.0\CleanArchMvc.Application.pdb
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\bin\Debug\net9.0\CleanArchMvc.Domain.dll
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\bin\Debug\net9.0\CleanArchMvc.Domain.pdb
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\obj\Debug\net9.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\obj\Debug\net9.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\obj\Debug\net9.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\obj\Debug\net9.0\CleanArchMvc.Application.AssemblyInfo.cs
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\obj\Debug\net9.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\obj\Debug\net9.0\CleanArchMvc.Application.sourcelink.json
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\obj\Debug\net9.0\CleanArc.49502176.Up2Date
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\obj\Debug\net9.0\CleanArchMvc.Application.dll
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\obj\Debug\net9.0\refint\CleanArchMvc.Application.dll
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\obj\Debug\net9.0\CleanArchMvc.Application.pdb
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\Clean.Arch.Mvc.Application\obj\Debug\net9.0\ref\CleanArchMvc.Application.dll
