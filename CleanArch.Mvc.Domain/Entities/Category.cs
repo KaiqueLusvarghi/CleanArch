@@ -20,21 +20,23 @@ namespace CleanArchMvc.Domain.Entities
         }
         public Category(int id , string name)
         {
-            DomainExcptionValidation.When(id < 0, "Invalid id, id must be greater than 0");
+            DomainExceptionValidation.When(id < 0, "Invalid id, id must be greater than 0"); //Validando o id
+            Id = id; //Atribuindo o id
+            ValidationDomain(name); //Validando o nome
         }
         public void Update(string name)
         {
-            ValidationDomain(name);
+            ValidationDomain(name); //Validando o nome
         }
-        public ICollection<Product> Products { get; set; }
+        public ICollection<Product> Products { get; set; } //Propriedade de navegação para o produto
 
-        private void ValidationDomain(string name)
+        private void ValidationDomain(string name) //Método privado para validar o nome da categoria
         {
             //Aplicando a logica da validação !
-            DomainExcptionValidation.When(string.IsNullOrEmpty(name), "Invalid name, name is required");
-            DomainExcptionValidation.When(name.Length < 3, "Invalid name, name must have at least 3 characters");
-            DomainExcptionValidation.When(name.Length > 100, "Invalid name, name must have at most 100 characters");
-            Name = name;
+            DomainExceptionValidation.When(string.IsNullOrEmpty(name), "Invalid name, name is required"); //Validando se o nome é vazio ou nulo
+            DomainExceptionValidation.When(name.Length < 3, "Invalid name, name must have at least 3 characters"); //Validando se o nome tem menos de 3 caracteres
+            DomainExceptionValidation.When(name.Length > 100, "Invalid name, name must have at most 100 characters"); //Validando se o nome tem mais de 100 caracteres
+            Name = name; //Atribuindo o nome
         }
     }
 }

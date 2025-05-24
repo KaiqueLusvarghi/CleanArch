@@ -23,7 +23,8 @@ namespace CleanArchMvc.Domain.Entities
 
         public Product(int id, string name, string description, decimal price, int stock, string image)
         {
-            DomainExcptionValidation.When(id < 0, "Invalid id, id must be greater than 0");
+            DomainExceptionValidation.When(id < 0, "Invalid id, id must be greater than 0"); //Validando o id
+            Id = id;
             ValidateDomaian(name, description, price, stock, image);
 
         }
@@ -35,14 +36,14 @@ namespace CleanArchMvc.Domain.Entities
 
         private void ValidateDomaian(string name, string description, decimal price, int stock, string image)
         {
-            DomainExcptionValidation.When(string.IsNullOrEmpty(name), "Invalid name, name is required");
-            DomainExcptionValidation.When(name.Length < 3, "Invalid name, name must have at least 3 characters");
-            DomainExcptionValidation.When(name.Length > 100, "Invalid name, name must have at most 100 characters");
-            DomainExcptionValidation.When(string.IsNullOrEmpty(description), "Invalid description, description is required");
-            DomainExcptionValidation.When(description.Length < 5, "Invalid description, description must have at least 5 characters");
-            DomainExcptionValidation.When(price < 0, "Invalid price, price must be greater than or equal to 0");
-            DomainExcptionValidation.When(stock < 0, "Invalid stock, stock must be greater than or equal to 0");
-            DomainExcptionValidation.When(image.Length > 250, "Invalid image, image must have at most 250 characters");
+            DomainExceptionValidation.When(string.IsNullOrEmpty(name), "Invalid name, name is required");//Validando se o nome é vazio ou nulo
+            DomainExceptionValidation.When(name.Length < 3, "Invalid name, name must have at least 3 characters"); //Validando se o nome tem menos de 3 caracteres
+            DomainExceptionValidation.When(name.Length > 100, "Invalid name, name must have at most 100 characters"); //Validando se o nome tem mais de 100 caracteres
+            DomainExceptionValidation.When(string.IsNullOrEmpty(description), "Invalid description, description is required"); //Validando se a descrição é vazia ou nula
+            DomainExceptionValidation.When(description.Length < 5, "Invalid description, description must have at least 5 characters"); //Validando se a descrição tem menos de 5 caracteres
+            DomainExceptionValidation.When(price < 0, "Invalid price, price must be greater than or equal to 0");//Validando se o preço é menor que 0
+            DomainExceptionValidation.When(stock < 0, "Invalid stock, stock must be greater than or equal to 0");//Validando se o estoque é menor que 0
+            DomainExceptionValidation.When(image?.Length > 250, "Invalid image, image must have at most 250 characters");//Validando se a imagem tem mais de 250 caracteres
             Name = name;
             Description = description;
             Price = price;

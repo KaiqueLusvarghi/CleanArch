@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB529F77-34EC-4B27-95A1-856D6598ABCA}|CleanArch.Mvc.Domain\\CleanArchMvc.Domain.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarch.mvc.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB529F77-34EC-4B27-95A1-856D6598ABCA}|CleanArch.Mvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarch.mvc.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21DC613D-A9FC-4826-A820-11740CE87348}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarchmvc.domain.tests\\categoryunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DC613D-A9FC-4826-A820-11740CE87348}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|solutionrelative:cleanarchmvc.domain.tests\\categoryunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB529F77-34EC-4B27-95A1-856D6598ABCA}|CleanArch.Mvc.Domain\\CleanArchMvc.Domain.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarch.mvc.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB529F77-34EC-4B27-95A1-856D6598ABCA}|CleanArch.Mvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarch.mvc.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21DC613D-A9FC-4826-A820-11740CE87348}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarchmvc.domain.tests\\productunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DC613D-A9FC-4826-A820-11740CE87348}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|solutionrelative:cleanarchmvc.domain.tests\\productunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB529F77-34EC-4B27-95A1-856D6598ABCA}|CleanArch.Mvc.Domain\\CleanArchMvc.Domain.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarch.mvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB529F77-34EC-4B27-95A1-856D6598ABCA}|CleanArch.Mvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarch.mvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB529F77-34EC-4B27-95A1-856D6598ABCA}|CleanArch.Mvc.Domain\\CleanArchMvc.Domain.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarch.mvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB529F77-34EC-4B27-95A1-856D6598ABCA}|CleanArch.Mvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarch.mvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB529F77-34EC-4B27-95A1-856D6598ABCA}|CleanArch.Mvc.Domain\\CleanArchMvc.Domain.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarch.mvc.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB529F77-34EC-4B27-95A1-856D6598ABCA}|CleanArch.Mvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarch.mvc.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,40 +27,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Domain\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "CleanArch.Mvc.Domain\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Domain\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "CleanArch.Mvc.Domain\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Title": "CategoryUnitTest1.cs",
+              "DocumentMoniker": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
+              "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T14:17:10.83Z",
+              "WhenOpened": "2025-05-24T16:20:01.928Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Domain\\Interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "CleanArch.Mvc.Domain\\Interfaces\\ICategoryRepository.cs",
-              "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Domain\\Interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "CleanArch.Mvc.Domain\\Interfaces\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T14:05:14.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Domain\\Entities\\Entity.cs",
-              "RelativeDocumentMoniker": "CleanArch.Mvc.Domain\\Entities\\Entity.cs",
-              "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Domain\\Entities\\Entity.cs",
-              "RelativeToolTip": "CleanArch.Mvc.Domain\\Entities\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T23:42:56.109Z"
             },
             {
               "$type": "Document",
@@ -78,22 +45,22 @@
               "RelativeDocumentMoniker": "CleanArch.Mvc.Domain\\Entities\\Product.cs",
               "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Domain\\Entities\\Product.cs",
               "RelativeToolTip": "CleanArch.Mvc.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wC0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T22:56:53.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T15:51:16.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "CleanArch.Mvc.Domain\\Entities\\Category.cs",
-              "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "CleanArch.Mvc.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductUnitTest1.cs",
+              "DocumentMoniker": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
+              "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T22:56:28.321Z"
+              "WhenOpened": "2025-05-24T15:49:08.459Z",
+              "EditorCaption": ""
             }
           ]
         }
