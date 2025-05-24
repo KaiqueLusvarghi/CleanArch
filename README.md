@@ -48,7 +48,7 @@ Este projeto foi desenvolvido como parte de um curso voltado para o aprendizado 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SeuUsuario/NomeDoRepositorio.git
+git clone https://github.com/KaiqueLusvarghi/CleanArch.git
 ```
 ---
 ## 🔒 Segurança
