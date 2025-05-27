@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21DC613D-A9FC-4826-A820-11740CE87348}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarchmvc.domain.tests\\categoryunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21DC613D-A9FC-4826-A820-11740CE87348}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|solutionrelative:cleanarchmvc.domain.tests\\categoryunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{846B99B7-9D28-4188-B803-E57E0BE4E3D8}|CleanArch.Mvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarch.mvc.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846B99B7-9D28-4188-B803-E57E0BE4E3D8}|CleanArch.Mvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarch.mvc.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21DC613D-A9FC-4826-A820-11740CE87348}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarchmvc.domain.tests\\productunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21DC613D-A9FC-4826-A820-11740CE87348}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|solutionrelative:cleanarchmvc.domain.tests\\productunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{846B99B7-9D28-4188-B803-E57E0BE4E3D8}|CleanArch.Mvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarch.mvc.infra.data\\entitiesconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846B99B7-9D28-4188-B803-E57E0BE4E3D8}|CleanArch.Mvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarch.mvc.infra.data\\entitiesconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB529F77-34EC-4B27-95A1-856D6598ABCA}|CleanArch.Mvc.Domain\\CleanArchMvc.Domain.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarch.mvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB529F77-34EC-4B27-95A1-856D6598ABCA}|CleanArch.Mvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarch.mvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{846B99B7-9D28-4188-B803-E57E0BE4E3D8}|CleanArch.Mvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|d:\\dev c#\\curso_cleanarq\\cleanarqmvc\\cleanarch.mvc.infra.data\\entitiesconfiguration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846B99B7-9D28-4188-B803-E57E0BE4E3D8}|CleanArch.Mvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarch.mvc.infra.data\\entitiesconfiguration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryUnitTest1.cs",
-              "DocumentMoniker": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
-              "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
-              "RelativeToolTip": "CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Infra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArch.Mvc.Infra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Infra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "RelativeToolTip": "CleanArch.Mvc.Infra.Data\\EntitiesConfiguration\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T16:20:01.928Z",
+              "WhenOpened": "2025-05-27T01:04:44.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "CleanArch.Mvc.Domain\\Entities\\Product.cs",
-              "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "CleanArch.Mvc.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA4wC0AAAAxAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Infra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArch.Mvc.Infra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Infra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "CleanArch.Mvc.Infra.Data\\EntitiesConfiguration\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T15:51:16.546Z"
+              "WhenOpened": "2025-05-27T00:55:17.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductUnitTest1.cs",
-              "DocumentMoniker": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "RelativeToolTip": "CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArch.Mvc.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Dev C#\\Curso_CleanArq\\CleanArqMVC\\CleanArch.Mvc.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CleanArch.Mvc.Infra.Data\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T15:49:08.459Z",
+              "WhenOpened": "2025-05-27T00:33:15.938Z",
               "EditorCaption": ""
             }
           ]
