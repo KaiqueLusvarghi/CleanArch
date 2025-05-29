@@ -14,3 +14,5 @@ D:\Dev C#\Curso_CleanArq\CleanArqMVC\CleanArch.Mvc.Infra.Data\obj\Debug\net9.0\C
 D:\Dev C#\Curso_CleanArq\CleanArqMVC\CleanArch.Mvc.Infra.Data\obj\Debug\net9.0\refint\CleanArchMvc.Infra.Data.dll
 D:\Dev C#\Curso_CleanArq\CleanArqMVC\CleanArch.Mvc.Infra.Data\obj\Debug\net9.0\CleanArchMvc.Infra.Data.pdb
 D:\Dev C#\Curso_CleanArq\CleanArqMVC\CleanArch.Mvc.Infra.Data\obj\Debug\net9.0\ref\CleanArchMvc.Infra.Data.dll
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\CleanArch.Mvc.Infra.Data\bin\Debug\net9.0\CleanArchMvc.Infra.Data.runtimeconfig.json
+D:\Dev C#\Curso_CleanArq\CleanArqMVC\CleanArch.Mvc.Infra.Data\obj\Debug\net9.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
