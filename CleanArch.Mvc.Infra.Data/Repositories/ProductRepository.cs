@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchMvc.Infra.Data.Repositories
 {
-    internal class ProductRepository : IProductRepository // Implementa a interface IProductRepository
+    public class ProductRepository : IProductRepository // Implementa a interface IProductRepository
     {
         ApplicationDbContext _productContext; // Contexto do banco de dados para acessar as entidades
         public ProductRepository(ApplicationDbContext context) // Construtor que recebe o contexto do banco de dados
